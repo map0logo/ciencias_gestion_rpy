@@ -1,2 +1,4 @@
 # ciencias_gestion_rpy
 Apuntes del libro de texto: *Ciencias de La Gestión: Un enfoque programático con Python y R*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/ve/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/ve/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"> Ciencias de la Gestión: Un enfoque programático con Python y R</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Francisco Palm</span> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/ve/">Licencia Creative Commons Atribución-CompartirIgual 3.0 Venezuela</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/map0logo/ciencias_gestion_rpy" rel="dct:source">https://github.com/map0logo/ciencias_gestion_rpy</a>.
