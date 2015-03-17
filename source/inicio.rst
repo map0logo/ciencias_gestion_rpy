@@ -3,15 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ciencias Gestión R&Py's documentation!
-=================================================
+Ciencias de la Gestión
+======================
 
-Contents:
+Un enfoque programático con R y Python
+--------------------------------------
+
+Contenidos:
 
 .. toctree::
    :maxdepth: 2
 
-
+   intro
+   modelos
+   pythonyR
+   algLineal
+   progLineal
+   modRed
+   probabilidades
+   cadMarkov
+   teoColas
+   inventarios
+   simulacion
 
 Indices and tables
 ==================
@@ -19,4 +32,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
