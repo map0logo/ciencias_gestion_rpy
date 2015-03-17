@@ -19,6 +19,8 @@ Contenidos:
    pythonyR
    algLineal
    progLineal
+   metSimplex
+   teoDualidad
    modRed
    probabilidades
    cadMarkov
